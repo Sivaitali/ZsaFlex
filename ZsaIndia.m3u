@@ -1,0 +1,137 @@
+#EXTM3U	
+#EXTINF:-1,8x M	
+http://cdn.ebound.tv/tv/8xm/chunks.m3u8
+#EXTINF:-1,9x E	
+http://46.249.213.87/iPhone/broadcast/9xe-tablet.3gp.m3u8
+#EXTINF:-1,9x Jhakaas	
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD191_W_250.sdp/chunklist.m3u8
+#EXTINF:-1,9x Tashan	
+http://9xm-mod-live-env.elasticbeanstalk.com/hlslive/9xtashan_all.m3u8
+#EXTINF:-1,A Plus	
+http://cdn.ebound.tv/tv/aplus/chunks.m3u8
+#EXTINF:-1,Awaaz TV	
+http://cdn.ebound.tv/tv/awaztv/chunks.m3u8
+#EXTINF:-1,B4U Movies	
+http://103.240.232.91/hls/b4umoviesabr/index.m3u8
+#EXTINF:-1,B4U Music 1	
+http://admin.8packlive.tulix.tv/hls/bollywoodflix/bollywoodflix.m3u8
+#EXTINF:-1,B4U Music 2	
+http://stream01.yamgo.com/iPhone/HLS_TS/broadcast/b34umus14-tablet.3gp/b34umus14-tablet.3gp-mr498k.m3u8?trackingid=3141340000
+#EXTINF:-1,Big B TV	
+http://103.250.10.43:1935/live/bigbtv_webA.sdp/chunklist_w1767657994.m3u8?token=2249216415&hellotvrpc=9000000002&uid=27901315&type=LiveTV&name=Big_B_TV&cid=82138
+#EXTINF:-1,Big Magic	
+http://103.240.232.91/hls/bigmagicabr/index.m3u8
+#EXTINF:-1,Bindass	
+http://103.240.232.91/hls/bindassabr/index.m3u8
+#EXTINF:-1,Business Plus	
+http://cdn.ebound.tv/tv/businessplus/chunks.m3u8
+#EXTINF:-1,Capital TV	
+http://cdn.ebound.tv/tv/capitaltv/chunks.m3u8
+#EXTINF:-1,City 42	
+http://cdn.ebound.tv/tv/city42/chunks.m3u8
+#EXTINF:-1,Colors	
+http://103.240.232.91/hls/colorsabr/index.m3u8
+#EXTINF:-1,Colors HD	
+http://hlsothers-lh.akamaihd.net/i/ams39_test1@301778/index_1100.m3u8
+#EXTINF:-1,Cortoon Network India	
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/chunklist.m3u8
+#EXTINF:-1,Dawn	
+http://cdn.ebound.tv/tv/dawn/chunks.m3u8
+#EXTINF:-1,DWN Urdu 1	
+http://cdn.ebound.tv/tv/urdu1/chunks.m3u8
+#EXTINF:-1,Express	
+http://cdn.ebound.tv/tv/express/chunks.m3u8
+#EXTINF:-1,Express Entertainment	
+http://cdn.ebound.tv/tv/expressentertainment/chunks.m3u8
+#EXTINF:-1,HBO India	
+http://103.240.232.91/hls/hboabr/index.m3u8
+#EXTINF:-1,Hum Masala TV	
+http://cdn.ebound.tv/tv/masalatv/chunks.m3u8
+#EXTINF:-1,Hum TV 1	
+rtmp://cdn.ebound.tv:1935/tv/humtv
+#EXTINF:-1,Hum TV 2	
+http://stream02.yamgo.com/iPhone/HLS_TS/broadcast/hum_tv-tablet.3gp/hum_tv-tablet.3gp-mr647k.m3u8?
+#EXTINF:-1,Hum TV 3	
+http://cdn.ebound.tv/tv/humtv/chunks.m3u8
+#EXTINF:-1,Janam TV	
+http://live.wmncdn.net/janam/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF:-1,Life OK 1	
+http://103.240.232.91/hls/lifeokabr/index.m3u8
+#EXTINF:-1,Life OK 2	
+http://nwk5-lh.akamaihd.net/i/us5_lifeokau@325144/master.m3u8
+#EXTINF:-1,Manoranjan TV	
+http://103.250.10.43:1935/live/manoranjantv_webA.sdp/chunklist_w467154298.m3u8?token=6450346840&hellotvrpc=9000000002&uid=27901315&type=LiveTV&name=Manoranjan_TV&cid=2043
+#EXTINF:-1,Mastii	
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD254_W_350.sdp/chunklist.m3u8
+#EXTINF:-1,MBC Bollywood	
+rtmp://63.237.48.23/live/MBC_BOLLYWOOD
+#EXTINF:-1,M-Tunes HD
+http://hlshinextra-lh.akamaihd.net/i/ams4_mtunes@124572/index_1100_av-b.m3u8
+#EXTINF:-1,MTV India	
+http://103.240.232.91/hls/mtvabr/index.m3u8
+#EXTINF:-1,Music Express	
+rtmp://65.51.67.40:1935/rtplive/musicexpress.stream
+#EXTINF:-1,Music India	
+http://103.250.10.43:1935/live/musicindia_webA.sdp/chunklist_w102595648.m3u8?token=6450346840&hellotvrpc=9000000002&uid=27901315&type=LiveTV&name=Music_India&cid=1897
+#EXTINF:-1,R.T.Movies	
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD258_W_350.sdp/samitv.m3u8
+#EXTINF:-1,Royal TV	
+http://cdn.ebound.tv/tv/royaltv/chunks.m3u8
+#EXTINF:-1,Sab TV	
+http://103.240.232.91/hls/sabtvabr/index.m3u8
+#EXTINF:-1,Sahara Filmy	
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD66_W_350.sdp/chunklist.m3u8
+#EXTINF:-1,Sahara One	
+http://103.240.232.91/hls/saharaoneabr/index.m3u8
+#EXTINF:-1,See TV HD	
+rtmp://dstreamone.com:1935/live/seetv
+#EXTINF:-1,Set Max	
+http://hlsengent-lh.akamaihd.net/i/hls22_setmaxuk2@97724/index_1000_av.m3u8
+#EXTINF:-1,Sony Mix	
+http://103.240.232.91/hls/sonymixabr/index.m3u8
+#EXTINF:-1,Sony Pal	
+http://103.240.232.91/hls/sonypalabr/index.m3u8
+#EXTINF:-1,Sony SAB 1	
+http://46.249.213.93/iPhone/broadcast/sonysabtv-tablet.3gp/sonysabtv-tablet.3gp-mr528k.m3u8
+#EXTINF:-1,Sony SAB 2	
+rtsp://46.249.213.93/broadcast/sonysabtv-tablet.3gp
+#EXTINF:-1,Sony TV	
+http://103.240.232.91/hls/sonyabr/index.m3u8
+#EXTINF:-1,Star Live	
+http://cds.x8p2m7j9.hwcdn.net/wa/streamstar25/playlist.m3u8
+#EXTINF:-1,Star Mazaa	
+http://liveatv.adstream.eu:1935/live/ambaaltv/index.m3u8
+#EXTINF:-1,Star Plus	
+http://admin.8packlive.tulix.tv/hls/bollywoodmovies/bollywoodmovies.m3u8
+#EXTINF:-1,Star World	
+http://103.240.232.91/hls/starworldabr/index.m3u8
+#EXTINF:-1,Tehzeeb	
+http://cdn.ebound.tv/tv/tehzeeb/chunks.m3u8
+#EXTINF:-1,Times	
+http://cdn.ebound.tv/tv/times/chunks.m3u8
+#EXTINF:-1,TV Colors	
+http://cds.x8p2m7j9.hwcdn.net/wa/streamtvcol07/playlist.m3u8
+#EXTINF:-1,W.B.Movies	
+http://103.240.232.91/hls/wbabr/index.m3u8
+#EXTINF:-1,Waqt News	
+http://cdn.ebound.tv/tv/waqtnews/chunks.m3u8
+#EXTINF:-1,Zee Aflaam	
+http://streamer1.cdniptv.com:9080/hls/zee-aflam.m3u8?frd8fi6blyq46ep
+#EXTINF:-1,Zee Cafe	
+http://103.240.232.91/hls/zeecafeabr/index.m3u8
+#EXTINF:-1,Zee Salaam	
+http://live.wmncdn.net/livestream/cb582cc2f3b08e0bbd1c9f3d23541e26.sdp/playlist.m3u8
+#EXTINF:-1,Zee Smile	
+http://103.240.232.91/hls/zeesmileabr/index.m3u8
+#EXTINF:-1,Zee Studio	
+http://103.240.232.91/hls/zeestudioabr/index.m3u8
+#EXTINF:-1,Zee TV	
+http://103.240.232.91/hls/zeetvabr/index.m3u8
+#EXTINF:-1,Zee Zindagi	
+http://103.240.232.91/hls/zeezindagiabr/index.m3u8
+#EXTINF:-1,Zing TV	
+http://stream01.yamgo.com/iPhone/HLS_TS/mptslive/zing-mobile.3gp/zing-mobile.3gp-mr197k.m3u8?
+#EXTINF:-1,Zoom 1	
+http://103.240.232.91/hls/zoomabr/index.m3u8
+#EXTINF:-1,Zoom 2	
+http://www.zengatv.com/embed?v=Zoom.html&t=live
