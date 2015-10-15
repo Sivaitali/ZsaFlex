@@ -1,0 +1,17 @@
+#EXTM3U
+
+#EXTINF:-1,[B][COLOR deepskyblue]Sky Movie Channels[/COLOR][/B]
+http://103.13.228.157/streamlink.m3u8?channel_id=5028f7ff1d1b4d5f8189690233364737
+
+#EXTINF:-1,Sky Movies Action
+http://95.211.169.18:8000/live/tester/123/53.m3u8
+#EXTINF:-1,Sky Movies Comedy
+http://95.211.169.18:8000/live/tester/123/55.m3u8
+#EXTINF:-1,Sky Movies Disney
+http://95.211.169.18:8000/live/tester/123/54.m3u8
+#EXTINF:-1,Sky Movies Modern Great
+http://95.211.169.18:8000/live/tester/123/56.m3u8
+#EXTINF:-1,Sky Movies Premier
+http://95.211.169.18:8000/live/tester/123/57.m3u8
+#EXTINF:-1,Sky Movies Sci-Fi
+http://95.211.169.18:8000/live/tester/123/58.m3u8

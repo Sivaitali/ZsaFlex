@@ -1,0 +1,35 @@
+#EXTM3U
+
+#EXTINF:-1,[B][COLOR deepskyblue]UK Premium Channels[/COLOR][/B]
+http://103.13.228.157/streamlink.m3u8?channel_id=5028f7ff1d1b4d5f8189690233364737
+
+#EXTINF:-1,Baby TV
+http://95.211.169.18:8000/live/tester/123/32.m3u8
+#EXTINF:-1,BBC 1 HD
+http://95.211.169.18:8000/live/tester/123/48.m3u8
+#EXTINF:-1,BBC 2 HD
+http://95.211.169.18:8000/live/tester/123/49.m3u8
+#EXTINF:-1,BBC 3 HD
+http://95.211.169.18:8000/live/tester/123/50.m3u8
+#EXTINF:-1,BBC 4 HD
+http://95.211.169.18:8000/live/tester/123/51.m3u8
+#EXTINF:-1,BBC Entertainment
+http://95.211.169.18:8000/live/tester/123/42.m3u8
+#EXTINF:-1,CBS Action
+http://95.211.169.18:8000/live/tester/123/59.m3u8
+#EXTINF:-1,CBS Drama UK
+http://95.211.169.18:8000/live/tester/123/60.m3u8
+#EXTINF:-1,Discovery Science
+http://95.211.169.18:8000/live/tester/123/52.m3u8
+#EXTINF:-1,ITV 1 UK
+http://95.211.169.18:8000/live/tester/123/69.m3u8
+#EXTINF:-1,ITV 2 UK
+http://95.211.169.18:8000/live/tester/123/70.m3u8
+#EXTINF:-1,ITV 3 UK
+http://95.211.169.18:8000/live/tester/123/71.m3u8
+#EXTINF:-1,ITV 4 UK
+http://95.211.169.18:8000/live/tester/123/72.m3u8
+#EXTINF:-1,MTV Music 24
+http://95.211.169.18:8000/live/tester/123/38.m3u8
+#EXTINF:-1,TV 538
+http://95.211.169.18:8000/live/tester/123/37.m3u8
