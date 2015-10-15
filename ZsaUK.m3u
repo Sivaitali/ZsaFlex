@@ -1,7 +1,8 @@
 #EXTM3U
-#EXTINF:-1,
+
 #EXTINF:-1,[B][COLOR deepskyblue]UK Premium Channels[/COLOR][/B]
-#EXTINF:-1,
+http://103.13.228.157/streamlink.m3u8?channel_id=5028f7ff1d1b4d5f8189690233364737
+
 #EXTINF:-1,Baby TV
 http://95.211.169.18:8000/live/tester/123/32.m3u8
 #EXTINF:-1,BBC 1 HD
@@ -32,9 +33,10 @@ http://95.211.169.18:8000/live/tester/123/72.m3u8
 http://95.211.169.18:8000/live/tester/123/38.m3u8
 #EXTINF:-1,TV 538
 http://95.211.169.18:8000/live/tester/123/37.m3u8
-#EXTINF:-1,
+
 #EXTINF:-1,[B][COLOR deepskyblue]Sky Movie Channels[/COLOR][/B]
-#EXTINF:-1,
+http://103.13.228.157/streamlink.m3u8?channel_id=5028f7ff1d1b4d5f8189690233364737
+
 #EXTINF:-1,Sky Movies Action
 http://95.211.169.18:8000/live/tester/123/53.m3u8
 #EXTINF:-1,Sky Movies Comedy
@@ -47,9 +49,10 @@ http://95.211.169.18:8000/live/tester/123/56.m3u8
 http://95.211.169.18:8000/live/tester/123/57.m3u8
 #EXTINF:-1,Sky Movies Sci-Fi
 http://95.211.169.18:8000/live/tester/123/58.m3u8
-#EXTINF:-1,
+
 #EXTINF:-1,[B][COLOR deepskyblue]Sky Sports Channels[/COLOR][/B]
-#EXTINF:-1,
+http://103.13.228.157/streamlink.m3u8?channel_id=5028f7ff1d1b4d5f8189690233364737
+
 #EXTINF:-1,Sky Sport 1
 http://95.211.169.18:8000/live/tester/123/62.m3u8
 #EXTINF:-1,Sky Sport 2
