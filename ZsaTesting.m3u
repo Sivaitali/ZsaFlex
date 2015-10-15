@@ -1,0 +1,89 @@
+#EXTM3U
+
+#EXTINF:-1,[B][COLOR deepskyblue]Random Channels[/COLOR][/B]
+http://103.13.228.157/streamlink.m3u8?channel_id=5028f7ff1d1b4d5f8189690233364737
+#EXTINF:-1,[B][COLOR deepskyblue][/COLOR][/B]
+http://103.13.228.157/streamlink.m3u8?channel_id=5028f7ff1d1b4d5f8189690233364737
+
+#EXTINF:0,ABC 7
+http://192.99.147.19:5808/abchdguys/playlist.m3u8
+#EXTINF:0,CBS 2
+http://192.99.147.19:5808/cbshdguys/playlist.m3u8
+#EXTINF:0,CNBC
+http://192.99.147.19:5808/cnbchdguys/playlist.m3u8
+#EXTINF:0,HSN
+http://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31/mp4:420p500kB31.m3u8
+#EXTINF:0,HSN 2
+http://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:468p500kB31/mp4:468p500kB3.m3u8
+#EXTINF:0,NBA TV
+http://192.99.147.19:5808/1nbatv/playlist.m3u8
+#EXTINF:0,NBC 4
+http://192.99.147.19:5808/nbchdguys/index.m3u8
+#EXTINF:0,Telemundo
+http://iphone-streaming.ustream.tv/uhls/20720323/streams/live/iphone/playlist.m3u8
+#EXTINF:0,TSC
+http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/index_3_av-p.m3u8
+
+#EXTM3U
+
+#EXTINF:-1,[B][COLOR deepskyblue]Sports Channels[/COLOR][/B]
+http://103.13.228.157/streamlink.m3u8?channel_id=5028f7ff1d1b4d5f8189690233364737
+#EXTINF:-1,[B][COLOR deepskyblue][/COLOR][/B]
+http://103.13.228.157/streamlink.m3u8?channel_id=5028f7ff1d1b4d5f8189690233364737
+
+#EXTINF:0,Astro Super Sport 1
+http://185.63.252.176/live/antenasportucl1/playlist.m3u8
+#EXTINF:0,Astro Super Sport 2
+http://185.63.252.176/live/antenasportucl2/playlist.m3u8
+#EXTINF:0,Astro Super Sport 3
+http://185.63.252.176/live/antenasportucl3/playlist.m3u8
+#EXTINF:0,Astro Super Sport 4
+http://185.63.252.176/live/antenasportucl4/playlist.m3u8
+#EXTINF:0,BeIN Sports 1 FR
+http://178.33.88.129:888/udp/239.102.0.20:1234
+#EXTINF:0,BeIN Sports 2 FR
+http://178.33.88.129:888/udp/239.102.0.21:1234
+#EXTINF:0,BeIN Sports 3 FR
+http://178.33.88.129:888/udp/239.102.0.22:1234
+#EXTINF:0,ESPN
+http://192.99.147.19:5808/espnhdguys/playlist.m3u8
+#EXTINF:0,Eurosport (French)
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
+#EXTINF:0,Fox 5
+http://192.99.147.19:5808/foxhdguys/index.m3u8?
+#EXTINF:0,Fox Sports 1
+http://192.99.147.19:5808/foxsports/playlist.m3u8
+#EXTINF:0,Fox Sports 2
+http://192.99.147.19:5808/foxsports2/playlist.m3u8
+#EXTINF:0,Nfl Network
+http://192.99.147.19:5808/1nflnetwork/playlist.m3u8
+#EXTINF:0,Nfl Network
+http://nflsvgatlgame3-i.akamaihd.net/hls/live/223175/NFL_Mobile/2015Mobile_NFLN.m3u8
+#EXTINF:0,Nfl Network
+http://nflsvglagame1-i.akamaihd.net/hls/live/223206/NFL_Mobile/2015Mobile_NFLN_1500k.m3u8
+#EXTINF:0,Nfl Network
+http://nflsvglagame1-i.akamaihd.net/hls/live/223206/NFL_Mobile/2015Mobile_NFLN_2000k.m3u8
+#EXTINF:0,Nfl Network
+http://nflsvglagame1-i.akamaihd.net/hls/live/223206/NFL_Mobile/2015Mobile_NFLN_5000k.m3u8
+#EXTINF:0,Rai Sport 1 (Italian)
+mmsh://212.162.68.163:80/raisport+
+#EXTINF:0,Sport Time TV1 HD (German)
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_800
+#EXTINF:0,Sport Time TV2 HD (German)
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_1200
+#EXTINF:0,Sport Time TV3 HD (German)
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_800
+#EXTINF:0,Sport Time TV4 HD (German)
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_800
+#EXTINF:0,Sport Time TV5 HD (German)
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_800
+#EXTINF:0,Sport Time TV6 HD (German)
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_800
+#EXTINF:0,Sport Time TV7 HD (German)
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_800
+
+
+
+
+
+
