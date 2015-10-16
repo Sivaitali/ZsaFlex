@@ -1,0 +1,99 @@
+#EXTM3U
+
+#EXTINF:-1,[B][COLOR deepskyblue]CTH Stadium Channels[/COLOR][/B]
+http://103.13.228.157/streamlink.m3u8?channel_id=5028f7ff1d1b4d5f8189690233364737
+
+#EXTINF:0,UK CTH Stadium 1 HD
+http://tvi.ddns.me:8000/live/fraim/fraim/1087.m3u8
+#EXTINF:0,UK CTH Stadium 2 HD
+http://tvi.ddns.me:8000/live/fraim/fraim/1086.m3u8
+#EXTINF:0,UK CTH Stadium 3 HD
+http://tvi.ddns.me:8000/live/fraim/fraim/1069.m3u8
+#EXTINF:0,UK CTH Stadium 4 HD
+http://tvi.ddns.me:8000/live/fraim/fraim/1070.m3u8
+#EXTINF:0,UK CTH Stadium 5 HD
+http://tvi.ddns.me:8000/live/fraim/fraim/1085.m3u8
+#EXTINF:0,UK CTH Stadium 6 HD
+http://tvi.ddns.me:8000/live/fraim/fraim/1100.m3u8
+
+#EXTM3U
+
+#EXTINF:-1,[B][COLOR deepskyblue]Sky Sport Channels[/COLOR][/B]
+http://103.13.228.157/streamlink.m3u8?channel_id=5028f7ff1d1b4d5f8189690233364737
+
+#EXTINF:0,UK Sky Sport 1 HD
+http://tvi.ddns.me:8000/live/fraim/fraim/1104.m3u8
+#EXTINF:0,UK Sky Sport 1 HD
+http://tvi.ddns.me:8000/live/fraim/fraim/1104.m3u8
+#EXTINF:0,UK Sky Sport 1 HD
+http://tvi.ddns.me:8000/live/fraim/fraim/1044.m3u8
+#EXTINF:0,UK Sky Sport 2 HD
+http://tvi.ddns.me:8000/live/fraim/fraim/1043.m3u8
+#EXTINF:0,UK Sky Sport 3 HD
+http://tvi.ddns.me:8000/live/fraim/fraim/1042.m3u8
+#EXTINF:0,UK Sky Sport 4 HD
+http://tvi.ddns.me:8000/live/fraim/fraim/1041.m3u8
+#EXTINF:0,UK Sky Sport 5 HD
+http://tvi.ddns.me:8000/live/fraim/fraim/1040.m3u8
+#EXTINF:0,UK Sky Sport News HD
+http://tvi.ddns.me:8000/live/fraim/fraim/1112.m3u8
+#EXTINF:0,UK Sky SportF 1
+http://tvi.ddns.me:8000/live/fraim/fraim/1039.m3u8
+
+#EXTM3U
+
+#EXTINF:-1,[B][COLOR deepskyblue]BT Sport Channels[/COLOR][/B]
+http://103.13.228.157/streamlink.m3u8?channel_id=5028f7ff1d1b4d5f8189690233364737
+
+#EXTINF:0,UK BT Sport 1
+http://tvi.ddns.me:8000/live/fraim/fraim/1118.m3u8
+#EXTINF:0,UK BT Sprt 2
+http://tvi.ddns.me:8000/live/fraim/fraim/1117.m3u8
+
+#EXTM3U
+
+#EXTINF:-1,[B][COLOR deepskyblue]Other Sport Channels[/COLOR][/B]
+http://103.13.228.157/streamlink.m3u8?channel_id=5028f7ff1d1b4d5f8189690233364737
+
+#EXTINF:0,UK Box Nation HD
+http://tvi.ddns.me:8000/live/fraim/fraim/1717.m3u8
+#EXTINF:0,UK Eurosport 2 HD
+http://tvi.ddns.me:8000/live/fraim/fraim/1113.m3u8
+#EXTINF:0,UK Chelsea TV
+http://tvi.ddns.me:8000/live/fraim/fraim/1074.m3u8
+
+#EXTM3U
+
+#EXTINF:-1,[B][COLOR deepskyblue]Sky Movies Channels[/COLOR][/B]
+http://103.13.228.157/streamlink.m3u8?channel_id=5028f7ff1d1b4d5f8189690233364737
+
+#EXTINF:0,UK Sky Movies Premiere HD
+http://tvi.ddns.me:8000/live/fraim/fraim/1054.m3u8
+#EXTINF:0,UK Sky Movies Modern Great
+http://tvi.ddns.me:8000/live/fraim/fraim/1045.m3u8
+#EXTINF:0,UK Sky Movies Comedy HD
+http://tvi.ddns.me:8000/live/fraim/fraim/1038.m3u8
+#EXTINF:0,UK Sky Movies Action HD
+http://tvi.ddns.me:8000/live/fraim/fraim/1035.m3u8
+#EXTINF:0,UK Sky Movies Atlantic HD
+http://tvi.ddns.me:8000/live/fraim/fraim/1115.m3u8
+#EXTINF:0,UK Sky Drama HD
+http://tvi.ddns.me:8000/live/fraim/fraim/1055.m3u8
+#EXTINF:0,UK Sky Movies Disney
+http://tvi.ddns.me:8000/live/fraim/fraim/1056.m3u8
+#EXTINF:0,UK Sky Movies Showcase
+http://tvi.ddns.me:8000/live/fraim/fraim/1062.m3u8
+#EXTINF:0,UK Sky Movies Thriller
+http://tvi.ddns.me:8000/live/fraim/fraim/1061.m3u8
+#EXTINF:0,UK Sky Movies Select HD
+http://tvi.ddns.me:8000/live/fraim/fraim/1114.m3u8
+
+#EXTM3U
+
+#EXTINF:-1,[B][COLOR deepskyblue]Other Channels[/COLOR][/B]
+http://103.13.228.157/streamlink.m3u8?channel_id=5028f7ff1d1b4d5f8189690233364737
+
+#EXTINF:0,UK Sky One
+http://tvi.ddns.me:8000/live/fraim/fraim/1095.m3u8
+#EXTINF:0,UK Film 4
+http://tvi.ddns.me:8000/live/fraim/fraim/1714.m3u8
