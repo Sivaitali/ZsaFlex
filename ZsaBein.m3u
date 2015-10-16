@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1,Bein Sports 1 HD
+http://50.7.69.138:9080/hls/bein1hd.m3u8
+#EXTINF:-1,Bein Sports 2 HD
+http://50.7.69.138:9080/hls/bein2hd.m3u8
+#EXTINF:-1,Bein Sports 3 HD
+http://50.7.69.138:9080/hls/bein3hd.m3u8
+#EXTINF:-1,Bein Sports 4 HD
+http://50.7.69.138:9080/hls/bein4hd.m3u8
+#EXTINF:-1,Bein Sports 5 HD
+http://50.7.69.138:9080/hls/bein5hd.m3u8
+#EXTINF:-1,Bein Sports 6 HD
+http://50.7.69.138:9080/hls/bein6hd.m3u8
+#EXTINF:-1,Bein Sports 7 HD
+http://50.7.69.138:9080/hls/bein7hd.m3u8
+#EXTINF:-1,Bein Sports 8 HD
+http://50.7.69.138:9080/hls/bein8hd.m3u8
+#EXTINF:-1,Bein Sports 9 HD
+http://50.7.69.138:9080/hls/bein9hd.m3u8
+#EXTINF:-1,Bein Sports 10 HD
+http://50.7.69.138:9080/hls/bein10hd.m3u8
